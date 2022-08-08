@@ -2,23 +2,23 @@
    "files": [   
 {
          "name": "DTAC-🇸🇬SG-FREE-01",
-         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/DTAC-FREE-01.ovpn"
+         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/SG-DTAC-FREE-01.ovpn"
       },
 
 {
          "name": "DTAC-🇹🇭TH-VIP-01",
-         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/DTAC-VIP-01.ovpn"
+         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/TH-DTAC-VIP-01.ovpn"
       },
 
 {
          "name": "TRUE-🇸🇬SG-FREE-01",
-         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/TRUE-FREE-01.ovpn"
+         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/SG-TRUE-FREE-01.ovpn"
       },
 
 {
          "name": "TRUE-🇹🇭TH-VIP-01",
          "url":
-"https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/TRUE-VIP-01.ovpn"}
+"https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/TH-TRUE-VIP-01.ovpn"}
       
    ],
 "message":"အပ်ဒိပ်အသစ်မှာဘာတွေထူးခြားလဲ \n🙏အားလုံးပဲမဂ်လာပါဗျ🙏
@@ -26,5 +26,5 @@
 🇹🇭TH Server အသစ်ထည့်‌ထားတယ်🎉
 အားပေးသောမိတ်ဆွေအပေါင်း ကျန်းမာချမ်းသာကြပါစေဗျာ🥰🙏",
    "title":"📁ဖိုင်အပ်ဒိပ်လုပ်ပေးပါ📥" ,
-   "version": 1
+   "version": 2
 }
