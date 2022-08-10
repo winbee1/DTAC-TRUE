@@ -2,12 +2,12 @@
    "files": [   
 {
          "name": "DTAC-🇸🇬SG-FREE-01",
-         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/SG-DTAC-FREE-01.ovpn"
+         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/DTAC-FREE-001.ovpn"
       },
 
 {
          "name": "DTAC-🇸🇬SG-FREE-02",
-         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/SG-DTAC-FREE-02.ovpn"
+         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/DTAC-FREE-002.ovpn"
       },
 
 {
@@ -26,24 +26,19 @@
       },
 
 {
-         "name": "DTAC-🇹🇭TH-VIP-04",
-         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/TH-DTAC-VIP-04.ovpn"
-      },
-
-{
-         "name": "DTAC-🇹🇭TH-VIP-05",
-         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/TH-DTAC-VIP-05.ovpn"
+         "name": "DTAC-🇹🇭DTAC-GMAE-VIP-5",
+         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/DTAC-GAME-VIP-5.ovpn"
       },
 
 
 {
          "name": "TRUE-🇸🇬SG-FREE-01",
-         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/SG-TRUE-FREE-01.ovpn"
+         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/TRUE-FREE-001.ovpn"
       },
 
 {
          "name": "TRUE-🇸🇬SG-FREE-02",
-         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/SG-TRUE-FREE-02.ovpn"
+         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/TRUE-FREE-002.ovpn"
       },
 
 {
@@ -68,33 +63,26 @@
       
 
 {
-         "name": "TRUE-🇹🇭TH-VIP-04",
+         "name": "TRUE-🇹🇭TRUE-GMAE-5",
          "url":
-"https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/TH-TRUE-VIP-04.ovpn"
+"https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/TRUE-GAME-VIP-5.ovpn"
        },
       
 
 {
-         "name": "TRUE-🇹🇭TH-VIP-05",
+         "name": "US-VIP-01",
          "url":
-"https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/TH-TRUE-VIP-05.ovpn"
-     },
-      
-
-{
-         "name": "US-FREE-01",
-         "url":
-"https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/US-FREE.ovpn"
+"https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/US-VIP-01.ovpn"
      }
       
    ],
 
-"message":"🗃️ဖိုင်ဗားရှင်း 🗃️ (6)
+"message":"🗃️ဖိုင်ဗားရှင်း 🗃️ (7)
 အပ်ဒိပ်အသစ်မှာဘာတွေထူးခြားလဲ \n🙏အားလုံးပဲမဂ်လာပါဗျ🙏
 🎮ဂိမ်းသမားများအတွက်
 🇹🇭TH Server အသစ်ထည့်‌ထားတယ်🎉
 အားပေးသောမိတ်ဆွေအပေါင်း ကျန်းမာချမ်းသာကြပါစေဗျာ🥰🙏
 💘ကိုယ်အိမ်မက်ထဲက ချစ်နတ်သမီးလေး💘",
    "title":"📁ဖိုင်အပ်ဒိပ်လုပ်ပေးပါ📥" ,
-   "version": 6
+   "version": 7
 }
