@@ -19,6 +19,27 @@
 
 
 
+{
+         "name": "DTAC-🇹🇭TH-VIP-4",
+         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/DTAC-VIP-001.ovpn"
+      },
+
+
+
+{
+         "name": "DTAC-🇹🇭TH-VIP-5",
+         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/DTAC-VIP-002.ovpn"
+      },
+
+
+
+{
+         "name": "DTAC-🇹🇭TH-VIP-6",
+         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/DTAC-VIP-003.ovpn"
+      },
+
+
+
 
 
 {
@@ -41,15 +62,36 @@
          "url":
 "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/TRUE-GAME-VIP-5.ovpn"
        }
+
+
+
+{
+         "name": "TRUE-🇹🇭TH-VIP-4",
+         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/TRUE-VIP-001.ovpn"
+      },
+
+
+
+{
+         "name": "TRUE-🇹🇭TH-VIP-5",
+         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/TRUE-VIP-002.ovpn"
+      },
+
+
+
+{
+         "name": "TRUE-🇹🇭TH-VIP-6",
+         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/TRUE-VIP-003.ovpn"
+      }
       
    ],
 
-"message":"🗃️ဖိုင်ဗားရှင်း 🗃️ (1.4)
+"message":"🗃️ဖိုင်ဗားရှင်း 🗃️ (1.0)
 အပ်ဒိပ်အသစ်မှာဘာတွေထူးခြားလဲ \n🙏အားလုံးပဲမဂ်လာပါဗျ🙏
 🎮ဂိမ်းသမားများအတွက်
 🇹🇭TH Server အသစ်ထည့်‌ထားတယ်🎉
 အားပေးသောမိတ်ဆွေအပေါင်း ကျန်းမာချမ်းသာကြပါစေဗျာ🥰🙏
 💘ကိုယ်အိမ်မက်ထဲက ချစ်နတ်သမီးလေး💘",
    "title":"📁ဖိုင်အပ်ဒိပ်လုပ်ပေးပါ📥" ,
-   "version": 14
+   "version": 1
 }
