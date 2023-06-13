@@ -3,12 +3,12 @@
 
 {
          "name": "DTAC-FREE-01",
-         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/TH-free.ovpn"
+         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/eutvpn-1.ovpn"
       },
 
 {
          "name": "DTAC-FREE-02",
-         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/TH-free1.ovpn"
+         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/eutvpn-2.ovpn"
       },
 
 
@@ -99,7 +99,7 @@
       
    ],
 
-"message":"🗃️ဖိုင်ဗားရှင်း 🗃️ (2.5)
+"message":"🗃️ဖိုင်ဗားရှင်း 🗃️ (2.6)
 ကျေးဇူပြု၍အပ်ဒိပ်တင်ပေးပါ
 အပ်ဒိပ်အသစ်မှာဘာတွေထူးခြားလဲ \n🙏အားလုံးပဲမဂ်လာပါဗျ🙏
 🎮ဂိမ်းသမားများအတွက်
@@ -107,5 +107,9 @@
 အားပေးသောမိတ်ဆွေအပေါင်း ကျန်းမာချမ်းသာကြပါစေဗျာ🥰🙏
 💘ကိုယ်အိမ်မက်ထဲက ချစ်နတ်သမီးလေး💘",
    "title":"📁ဖိုင်အပ်ဒိပ်လုပ်ပေးပါ📥" ,
-   "version": 25
+   "version": 26
 }
+
+
+
+
