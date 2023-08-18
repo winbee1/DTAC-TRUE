@@ -5,12 +5,12 @@
 
 {
          "name": "SG-DTAC-FREE-01",
-         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/DTAC-VIP-001.ovpn"
+         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/FREE-1.ovpn"
       }
 ,
 {
-         "name": "TH-TRUE-FREE-02",
-         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/TRUE-VIP-001.ovpn"
+         "name": "TH-DTAC-FREE-02",
+         "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/FREE-2.ovpn"
       }   
       
      
@@ -19,5 +19,5 @@
 အားလုံးမင်္ဂလာပါဗျထိုင်းအင်တာနက်ဖရီသုံးချင်ရင်ကျွန်နော်APKကိုအမြဲဆောင်ထားပေးပါဗျအားလုံးကျေးဇူတင်ပါတယ်။။။
 \n\n ကိုအိမ်မက်ထဲကချစ်နတ်သမီးလေး",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":4
+   "version":5
 }
