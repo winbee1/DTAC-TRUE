@@ -12,12 +12,12 @@
       },
 
 {
-         "name": "DTAC-VIP-001",
+         "name": "DTAC-LINE-VIP-001",
          "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/DTAC-VIP-001.ovpn"
       },
 
 {
-         "name": "DTAC-VIP-002",
+         "name": "DTAC-LINE-VIP-002",
          "url": "https://raw.githubusercontent.com/winbee1/DTAC-TRUE/main/DTAC-VIP-002.ovpn"
       },
 
@@ -66,12 +66,12 @@
       
    ],
 
-"message":"🗃️ဖိုင်ဗားရှင်း 🗃️ (3.2)
+"message":"🗃️ဖိုင်ဗားရှင်း 🗃️ (3.3)
 ကျေးဇူပြု၍အပ်ဒိပ်တင်ပေးပါ
 အပ်ဒိပ်အသစ်မှာဘာတွေထူးခြားလဲ \n🙏အားလုံးပဲမဂ်လာပါဗျ🙏
 ဖိုင်အားလုံးပြင်ထားသည်🎯🎯🎯
 အားပေးသောမိတ်ဆွေအပေါင်း ကျန်းမာချမ်းသာကြပါစေဗျာ🥰🙏
 💘ကိုယ်အိမ်မက်ထဲက ချစ်နတ်သမီးလေး💘",
    "title":"📁ဖိုင်အပ်ဒိပ်လုပ်ပေးပါ📥" ,
-   "version": 32
+   "version": 33
 }
